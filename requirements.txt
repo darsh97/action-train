@@ -6,3 +6,16 @@ PyGithub
 pandas
 tabulate
 flask
+
+Processing pubmed22n0004.xml.gz
+Extracting pubmed22n0004.xml.gz
+Extracted pubmed22n0004.xml.gz
+pubmed22n0004.xml.gz: Error -3 while decompressing data: invalid stored block lengths
+Processing pubmed22n0006.xml.gz
+Extracting pubmed22n0006.xml.gz
+Extracted pubmed22n0006.xml.gz
+pubmed22n0006.xml.gz: Compressed file ended before the end-of-stream marker was reached
+Processing pubmed22n0003.xml.gz
+Extracting pubmed22n0003.xml.gz
+Extracted pubmed22n0003.xml.gz
+pubmed22n0003.xml.gz: Error -3 while decompressing data: invalid block type
